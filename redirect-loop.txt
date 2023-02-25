@@ -1,1 +1,1 @@
-https://go.prank.gg/redirect-loop
+https://go.prank.gg/redirect-loop?{redirectAt}
